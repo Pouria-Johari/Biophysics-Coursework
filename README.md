@@ -1,10 +1,10 @@
 # Computational biophysics coursework
 
-Simulation assignments from the course **[COURSE NAME]**, MSc in Quantitative Biology, University of Milan (March–May 2026).
+Simulation assignments from the course **Molecular Biophysics**, MSc in Quantitative Biology, University of Milan (March–May 2026).
 
 **Author:** Pouria Johari
 
-These are course assignments, not research projects. The questions and the helper modules (`diffusion_box.py`, `libplot_diff.py`, `PolymerFun.py`, `PolymerFun2.py`, and the `drawseq` function) were written by the course instructors, [INSTRUCTOR NAMES]. The analysis in the notebooks and the written answers are mine.
+These are course assignments, not research projects. The questions and the helper modules (`diffusion_box.py`, `libplot_diff.py`, `PolymerFun.py`, `PolymerFun2.py`, and the `drawseq` function) were written by the course instructors, [John Nava]. The analysis in the notebooks and the written answers are mine.
 
 ## Contents
 
@@ -41,7 +41,3 @@ jupyter lab
 - Notebooks 3 and 4 import the course helper modules, which must be in the same folder as the notebook. They belong to the course and are not included in this repository.
 - The DNA notebook needs [NUPACK](https://www.nupack.org) (installed separately, see its documentation) and `pip install draw_rna`.
 - `lattice_diffusion.ipynb` and `polymer_dynamics.ipynb` use a fixed random seed, so running them again gives the numbers quoted in the text. The other simulation notebooks do not, so a new run gives slightly different numbers.
-
-## Note
-
-I used an AI assistant (Claude) to review these notebooks and to help correct the written answers and the English.
