@@ -4,7 +4,7 @@ Simulation assignments from the course **Molecular Biophysics**, MSc in Quantita
 
 **Author:** Pouria Johari
 
-These are course assignments, not research projects. The questions and the helper modules (`diffusion_box.py`, `libplot_diff.py`, `PolymerFun.py`, `PolymerFun2.py`, and the `drawseq` function) were written by the course instructors, [John Nava]. The analysis in the notebooks and the written answers are mine.
+These are course assignments, not research projects. The questions and the helper modules (`diffusion_box.py`, `libplot_diff.py`, `PolymerFun.py`, `PolymerFun2.py`, and the `drawseq` function) were written by the course instructors, John Nava. The analysis in the notebooks and the written answers are mine.
 
 ## Contents
 
